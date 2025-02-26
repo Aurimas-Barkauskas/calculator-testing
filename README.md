@@ -1,1 +1,1 @@
-# calculator-testing
+#Automated testing - calculator
